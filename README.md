@@ -14,12 +14,6 @@ My current learning focus is on diving deep into **Data Science & Analytics**, *
 -   **[Waste Classification Using CNN](https://github.com/arielyosua/Waste-Classification-Using-Convolutional-Neural)**  
     -   Built an image classification model using CNN (MobileNetV2 and DenseNet121) to categorize waste types from the TrashNet dataset. Applied data augmentation, class weighting, and fine-tuning to improve accuracy, especially for minority classes like “trash”.
 
--   **Visitor Count Prediction Model**
-    -   Developed a linear regression model to predict the number of visitors to Japan, applying data preprocessing and statistical methods.
-
--   **Sales Data Analysis**
-    -   Conducted an analysis of sales data to uncover trends and optimize decision-making for business growth.
-
 ---
 
 #### 👥 Collaborative Projects
