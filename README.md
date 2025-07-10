@@ -22,6 +22,22 @@ My current learning focus is on diving deep into **Data Science & Analytics**, *
 
 ---
 
+#### 👥 Collaborative Projects
+
+-   **[EnviroPay - Sistem Pembayaran Iuran Lingkungan](https://github.com/FerdinandTJ/Website-Pembayaran-IPL-Iuran-Pemeliharaan-Lingkungan-)**  
+    -   A modern Laravel-based web app to manage environmental maintenance fees (IPL) in residential complexes. Features a responsive, user-friendly interface for residents and administrators to handle payments and financial tracking effectively.
+
+-   **[PeduliYuk - Platform Donasi Digital](https://github.com/YanStephen29/Peduli-Yuk-Mobile-Apps)**  
+    -   A Flutter-based donation platform designed to combat the impact of fast fashion by enabling secondhand goods donations between communities and organizations. Includes donation tracking, logistics coordination, and social campaign features.
+
+-   **[Aplikasi Voting - Sistem Pemungutan Suara Digital](https://github.com/FerdinandTJ/AplikasiVoting)**  
+    -   A secure digital voting system built with Firebase authentication and custom AES encryption, designed for academic use in a Cryptography course.
+
+-   **[Smart Door IoT Project](https://github.com/FarisFarhan17/Proyek---Mikrokontroller-dan-IoT)**  
+    -   An ESP32-based smart lockbox developed with MicroPython. Features automated locking/unlocking, Telegram-based real-time alerts, and a local web interface for control.
+
+---
+
 ### 📫 Get In Touch
 
 I'm always open to learning new things and collaborating on projects focused on data analytics and application development.
