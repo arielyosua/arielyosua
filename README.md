@@ -1,46 +1,27 @@
 ### Hi, I'm Ariel Yosua Hasibuan
 
-Saya seorang mahasiswa **Ilmu Komputer** di **Universitas Pertamina** dan seorang *tech enthusiast* yang memiliki antusiasme tinggi dalam mempelajari bagaimana teknologi dapat memecahkan masalah di dunia nyata.
+I am a **Computer Science** student at **Pertamina University** and a tech enthusiast passionate about exploring how technology can solve real-world problems.
 
-Saat ini, fokus belajar saya adalah mendalami bidang **Data Science & Analytics**, **Machine Learning**, dan **Mobile Programming**. Saya menikmati proses mengubah data mentah menjadi model prediktif yang berguna, sekaligus membangun aplikasi mobile yang intuitif dan fungsional.
-
----
-
-### 🔧 Teknologi & Keahlian
-
-Berikut adalah beberapa teknologi yang sedang dan pernah saya pelajari:
-
--   **Data & Machine Learning:**
-    -   Bahasa: `Python`, `SQL`
-    -   Library: `Pandas`, `Matplotlib`, `Scikit-learn`
-    -   Tools: `Jupyter Notebook`, `Excel`
-
--   **Mobile Development:**
-    -   Framework: `Flutter`
-    -   Bahasa: `Dart`
-    -   Backend: `Firebase (Firestore)`
-
--   **Lainnya:**
-    -   `Java`, `C++`, `PHP`, `Git`, `MySQL`
+My current learning focus is on diving deep into **Data Science & Analytics**, **Machine Learning**, and **Mobile Programming**, with a growing interest in the field of **Cybersecurity**. I enjoy the process of transforming raw data into useful predictive models, as well as building intuitive and functional mobile applications.
 
 ---
 
-### 🚀 Proyek Unggulan
+### 🚀 Featured Projects
 
 -   **[DompetKu - Financial Tracker](https://github.com/arielyosua/DompetKu)**
-    -   Aplikasi pelacak keuangan pribadi lintas platform yang dibangun dengan Flutter dan Firebase. Fitur yang ada mencakup sinkronisasi data real-time, grafik interaktif, dan fungsionalitas CRUD (Create, Read, Update, Delete) penuh.
+    -   A cross-platform personal finance tracker app built with Flutter and Firebase. Features include real-time data synchronization, interactive charts, and full CRUD (Create, Read, Update, Delete) functionality.
 
--   **Model Prediksi Jumlah Pengunjung**
-    -   Mengembangkan model regresi linear untuk memprediksi jumlah pengunjung ke Jepang, menerapkan pra-pemrosesan data dan metode statistik.
+-   **Visitor Count Prediction Model**
+    -   Developed a linear regression model to predict the number of visitors to Japan, applying data preprocessing and statistical methods.
 
--   **Analisis Data Penjualan**
-    -   Melakukan analisis pada data penjualan untuk menemukan tren dan mengoptimalkan pengambilan keputusan untuk pertumbuhan bisnis.
+-   **Sales Data Analysis**
+    -   Conducted an analysis of sales data to uncover trends and optimize decision-making for business growth.
 
 ---
 
-### 📫 Hubungi Saya
+### 📫 Get In Touch
 
-Saya selalu terbuka untuk belajar hal baru dan berkolaborasi dalam proyek yang berfokus pada analisis data dan pengembangan aplikasi.
+I'm always open to learning new things and collaborating on projects focused on data analytics and application development.
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Leira#6130) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arielyosua_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-yosua-hasibuan-0b60b8263)
 
